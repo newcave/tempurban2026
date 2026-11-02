@@ -1,0 +1,21 @@
+[theme]
+base = "dark"
+primaryColor = "#a78bfa"
+backgroundColor = "#070d1a"
+secondaryBackgroundColor = "#0f172a"
+textColor = "#e2e8f0"
+borderColor = "#1e293b"
+linkColor = "#c4b5fd"
+font = "'Noto Sans KR':https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap"
+baseRadius = "10px"
+buttonRadius = "9px"
+showWidgetBorder = true
+paddingTop = "0"
+chartCategoricalColors = ["#a78bfa", "#22d3ee", "#f59e0b", "#f87171", "#34d399", "#f472b6", "#94a3b8"]
+
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = false
+
+[browser]
+gatherUsageStats = false
